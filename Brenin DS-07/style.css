@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: rgb(216, 216, 216);
+
+}
+
+h1 {
+    background: linear-gradient(to right, black, rgb(108, 110, 108));
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin: 0;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img {
+    width: 700px;
+    display: block;
+    margin: auto;
+
+
+}
+
+p {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    
+}
+h2{ text-align: center;
+
+
+}
+
+
+.para{
+      border-left: 8px solid black;
+    border: solid rgba(128, 128, 128, 0.459);
+    width: 30%;
+    text-align: left;
+    max-width: 500px;
+    margin-left: 50px;
+    
+
+}
+span
